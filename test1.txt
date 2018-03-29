@@ -4,3 +4,6 @@ this is test1
 
 
 what is stash?
+
+
+:: edited after branch1 created..
