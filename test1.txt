@@ -22,3 +22,4 @@ what is stash?
 10
 
 11
+branch-conflict
