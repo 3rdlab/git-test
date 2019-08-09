@@ -15,5 +15,5 @@ created in branch_1
 5555
 
 
-7mmmmmm
-
+7branch-master
+branch-conflict-modified
